@@ -1,0 +1,9 @@
+﻿id_horario,id_usuario,tipo_horario,dia_semana,hora_inicio,hora_fin,vigente
+1,1,Escolar,Lunes,07:00:00,18:00:00,1
+2,2,Laboral,Lunes,08:00:00,16:00:00,1
+3,3,Laboral,Lunes,08:00:00,17:00:00,1
+4,4,Staff seguridad,Lunes,06:00:00,22:00:00,1
+5,5,Invitado,Lunes,09:00:00,13:00:00,1
+6,6,Escolar,Lunes,07:00:00,19:00:00,1
+7,7,Laboral,Lunes,08:00:00,16:00:00,1
+8,8,Invitado,Lunes,10:00:00,12:00:00,1

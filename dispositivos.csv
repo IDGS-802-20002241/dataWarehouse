@@ -1,0 +1,7 @@
+﻿id_dispositivo,codigo_dispositivo,nombre_dispositivo,tipo_dispositivo,modelo,ubicacion,estatus_dispositivo
+1,QR-ENT-01,Lector QR Entrada Principal,Lector QR,QRScan-X1,Entrada principal vehicular,Activo
+2,CAM-PLA-01,Cámara de placas Entrada,Cámara de placas,LPR-Cam-200,Entrada principal vehicular,Activo
+3,RFID-PEAT-01,Lector RFID Peatonal,Lector RFID,RFID-RC522,Torniquete peatonal A,Activo
+4,CAM-FAC-01,Cámara facial Peatonal,Cámara facial,FaceCam-AI,Torniquete peatonal A,Activo
+5,QR-SAL-01,Lector QR Salida Norte,Lector QR,QRScan-X1,Salida norte vehicular,Activo
+6,CAM-PLA-02,Cámara de placas Salida,Cámara de placas,LPR-Cam-200,Salida norte vehicular,Mantenimiento

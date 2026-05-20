@@ -1,0 +1,6 @@
+﻿id_punto_acceso,nombre_punto,tipo_punto,sentido,ubicacion,estatus_punto
+1,Entrada principal vehicular,Vehicular,Entrada,Acceso principal,Activo
+2,Salida norte vehicular,Vehicular,Salida,Estacionamiento norte,Activo
+3,Torniquete peatonal A,Peatonal,Entrada,Edificio principal,Activo
+4,Torniquete peatonal B,Peatonal,Salida,Edificio principal,Activo
+5,Puerta de emergencia,Peatonal,Mixto,Zona administrativa,Restringido

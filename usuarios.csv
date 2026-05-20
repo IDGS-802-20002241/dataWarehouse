@@ -1,0 +1,9 @@
+﻿id_usuario,clave_usuario,tipo_usuario,area_departamento,estatus_usuario,tiene_qr,tiene_rfid,tiene_registro_facial,fecha_alta
+1,ALU-2001,Alumno,IDGS,Activo,1,1,1,2026-05-01
+2,DOC-1045,Docente,Tecnologías de la Información,Activo,1,1,1,2026-05-01
+3,ADM-3020,Administrativo,Servicios Escolares,Activo,1,1,0,2026-05-02
+4,STF-9001,Staff,Seguridad,Activo,0,1,0,2026-05-02
+5,VIS-0001,Visitante,Invitado externo,Temporal,0,0,0,2026-05-03
+6,ALU-2002,Alumno,Mecatrónica,Activo,1,1,1,2026-05-03
+7,DOC-1080,Docente,Industrial,Activo,1,1,1,2026-05-04
+8,VIS-0002,Visitante,Invitado externo,Temporal,0,0,0,2026-05-04

@@ -1,0 +1,8 @@
+﻿id_vehiculo,id_usuario,placa_hash,tipo_vehiculo,marca,modelo,color,estatus_vehiculo
+1,1,PLACA_HASH_001,Auto,Nissan,Versa,Blanco,Activo
+2,2,PLACA_HASH_002,Auto,Toyota,Corolla,Gris,Activo
+3,3,PLACA_HASH_003,Camioneta,Ford,Escape,Azul,Activo
+4,5,PLACA_HASH_004,Auto,Chevrolet,Aveo,Rojo,Temporal
+5,6,PLACA_HASH_005,Motocicleta,Italika,FT150,Negro,Activo
+6,7,PLACA_HASH_006,Auto,Honda,Civic,Plata,Activo
+7,8,PLACA_HASH_007,Auto,Mazda,Mazda 3,Negro,Temporal
